@@ -1,0 +1,8 @@
+.playerPoster{
+   
+   
+    position: absolute;
+    width: 100% !important;
+    height: auto !important;
+    max-height: inherit !important;
+   }
